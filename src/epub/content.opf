@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/upton-sinclair/the-jungle</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-04-12T22:45:43Z</meta>
+		<meta property="dcterms:modified">2015-05-12T05:39:32Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -42,6 +42,7 @@
 		<meta property="se:word-count">151025</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Jungle</meta>
 		<meta property="se:production-notes">Italics have been removed from some foreign words that are today known to modern readers and are found in Merriam-Webster. (Bon mot, petite, etc.)</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/upton-sinclair_the-jungle</meta>
 		<dc:creator id="author">Upton Sinclair</dc:creator>
 		<meta property="file-as" refines="#author">Sinclair, Upton</meta>
 		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Upton_Sinclair</meta>
