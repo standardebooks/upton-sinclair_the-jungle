@@ -5,6 +5,10 @@ abbr.initialism{
 	font-variant: all-small-caps;
 }
 
+abbr.name{
+	white-space: nowrap;
+}
+
 section[epub|type~="dedication"] p{
 	font-variant: small-caps;
 	margin-top: 3em;
