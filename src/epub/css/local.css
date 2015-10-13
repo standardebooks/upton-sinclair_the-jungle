@@ -27,35 +27,25 @@ p.sign{
 	text-indent: 0;
 }
 
-p[epub|type~="z3998:song"] + p,
 p.sign + p{
 	text-indent: 0;
 }
 
-p[epub|type~="z3998:song"]{
-	font-style: italic;
-	margin: 1em;
-	text-indent: 0;
-}
-
-blockquote[epub|type~="z3998:song"] p{
-	font-style: italic;
-	text-indent: 0;
-}
-
+*[epub|type~="z3998:song"] p,
 *[epub|type~="z3998:poem"] p{
 	font-style: italic;
 	text-align: left;
 	text-indent: 0;
 }
 
+*[epub|type~="z3998:song"] p span,
 *[epub|type~="z3998:poem"] p span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
+*[epub|type~="z3998:song"] br,
 *[epub|type~="z3998:poem"] br{
 	display: none;
 }
-
