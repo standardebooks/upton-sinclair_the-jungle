@@ -47,13 +47,13 @@
 		<dc:creator id="author">Upton Sinclair</dc:creator>
 		<meta property="file-as" refines="#author">Sinclair, Upton</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Upton_Sinclair</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79127862.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79127862</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Francisco Goya</dc:contributor>
 		<meta property="file-as" refines="#artist">Goya, Francisco</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Francisco José de Goya y Lucientes</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Francisco_Goya</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79003363.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79003363</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Meltzer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Meltzer, David</meta>
