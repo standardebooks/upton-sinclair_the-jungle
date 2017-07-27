@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/upton-sinclair/the-jungle</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2017-07-21T00:48:49Z</meta>
-		<meta property="se:revision-number">52</meta>
+		<meta property="dcterms:modified">2017-07-27T20:59:31Z</meta>
+		<meta property="se:revision-number">53</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,8 +33,8 @@
 		<dc:description id="description">A working-class Lithuanian immigrant family’s struggle to make a living in the turn-of-the-century Chicago stockyards.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Jungle&lt;/i&gt; is one of the most famous muckraking novels in modern history.  Set in Chicago at the dawn of the 20th century, it tells the story of an immigrant Lithuanian family trying to make it in a new world both cruel and full of opportunity.  Their struggles are in part a vehicle for Sinclair to shine a spotlight on the monstrous conditions of the meatpacking industry, to expose the brutal exploitation of immigrants and workers, and to espouse his more socialist worldview.&lt;/p&gt;
-			&lt;p&gt;The novel is in part responsible for the passage of the revolutionary Meat Inspection Act and the Pure Food and Drug act, and thus the establishment of the modern-day Food and Drug administration in the US.  Its impact is in no small part due to the direct and powerful prose Sinclair employs: the horrors of commercial meat production are presented in full and glistening detail, and the tragedies and misfortunes of the Rudkus family are direct and relatable even today.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Jungle&lt;/i&gt; is one of the most famous muckraking novels in modern history. Set in Chicago at the dawn of the 20th century, it tells the story of an immigrant Lithuanian family trying to make it in a new world both cruel and full of opportunity. Their struggles are in part a vehicle for Sinclair to shine a spotlight on the monstrous conditions of the meatpacking industry, to expose the brutal exploitation of immigrants and workers, and to espouse his more socialist worldview.&lt;/p&gt;
+			&lt;p&gt;The novel is in part responsible for the passage of the revolutionary Meat Inspection Act and the Pure Food and Drug act, and thus the establishment of the modern-day Food and Drug administration in the US. Its impact is in no small part due to the direct and powerful prose Sinclair employs: the horrors of commercial meat production are presented in full and glistening detail, and the tragedies and misfortunes of the Rudkus family are direct and relatable even today.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
