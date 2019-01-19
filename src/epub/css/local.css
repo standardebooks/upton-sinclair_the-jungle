@@ -8,14 +8,9 @@ section[epub|type~="dedication"] p{
 	text-indent: 0;
 }
 
-p.sign{
+#chapter-26 blockquote p{
 	font-variant: small-caps;
 	margin: 1em;
-	text-indent: 0;
-}
-
-p.sign + p{
-	text-indent: 0;
 }
 
 [epub|type~="z3998:song"] p,
