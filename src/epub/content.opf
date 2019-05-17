@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Jungle</dc:title>
 		<meta property="file-as" refines="#title">Jungle, The</meta>
 		<dc:subject id="subject-1">Lithuanian Americans--Fiction</dc:subject>
@@ -34,19 +34,22 @@
 		<dc:subject id="subject-3">Working class--Fiction</dc:subject>
 		<dc:subject id="subject-4">Stockyards--Fiction</dc:subject>
 		<dc:subject id="subject-5">Immigrants--Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/2004268662</meta>
-		<meta property="meta-auth" refines="#subject-2">http://lccn.loc.gov/2004268662</meta>
-		<meta property="meta-auth" refines="#subject-3">http://lccn.loc.gov/2004268662</meta>
-		<meta property="meta-auth" refines="#subject-4">http://lccn.loc.gov/2004268662</meta>
-		<meta property="meta-auth" refines="#subject-5">http://lccn.loc.gov/2004268662</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2009130007</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008100185</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008113764</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2010114782</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008104248</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A working-class Lithuanian immigrant family’s struggle to make a living in the turn-of-the-century Chicago stockyards.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Jungle&lt;/i&gt; is one of the most famous muckraking novels in modern history. Set in Chicago at the dawn of the 20th century, it tells the story of an immigrant Lithuanian family trying to make it in a new world both cruel and full of opportunity. Their struggles are in part a vehicle for Sinclair to shine a spotlight on the monstrous conditions of the meatpacking industry, to expose the brutal exploitation of immigrants and workers, and to espouse his more socialist worldview.&lt;/p&gt;
 			&lt;p&gt;The novel is in part responsible for the passage of the revolutionary Meat Inspection Act and the Pure Food and Drug act, and thus the establishment of the modern-day Food and Drug administration in the US. Its impact is in no small part due to the direct and powerful prose Sinclair employs: the horrors of commercial meat production are presented in full and glistening detail, and the tragedies and misfortunes of the Rudkus family are direct and relatable even today.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/140</dc:source>
 		<dc:source>https://archive.org/details/jungle00sinc</dc:source>
