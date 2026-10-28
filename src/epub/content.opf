@@ -54,7 +54,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/140</dc:source>
 		<dc:source>https://archive.org/details/jungle00sinc</dc:source>
-		<meta property="schema:wordCount">149863</meta>
+		<meta property="schema:wordCount">149864</meta>
 		<meta property="schema:educationalLevel">72.8</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Jungle" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
