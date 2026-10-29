@@ -62,6 +62,7 @@
 		<link href="https://github.com/standardebooks/upton-sinclair_the-jungle" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Upton Sinclair</dc:creator>
 		<meta property="file-as" refines="#author">Sinclair, Upton</meta>
+		<meta property="schema:alternateName" refines="#author">Upton Beall Sinclair Jr.</meta>
 		<link href="https://en.wikipedia.org/wiki/Upton_Sinclair" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79127862.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -86,6 +87,7 @@
 		<dc:contributor id="transcriber-5">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Widger, David</meta>
 		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-5" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-5" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
